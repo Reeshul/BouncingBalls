@@ -1,3 +1,6 @@
+**UPDATE - Oct 2021: Please note this will not run in iOS or Safari on macOS as [private class methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields) are not yet supported.**
+
+
 # Bouncing Balls
 
 Individual tech test.
@@ -20,6 +23,6 @@ HTML, CSS, JS. 🎨
 
 1. Clone repo `git clone https://github.com/reeshul/bouncingballs`
 2. Change directory `cd bouncingballs`
-3. Open index.html (in Chrome ideally) `open -a "Google Chrome" index.html`
+3. Open index.html `open -a "Google Chrome" index.html`
 
 The solution can also be found on codepen [here](https://codepen.io/reeshul/pen/zYwdQgP).
